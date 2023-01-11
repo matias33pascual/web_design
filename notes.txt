@@ -1,0 +1,16 @@
+Maquetado lo basico en HTML, pasar a estudiar CSS.
+
+Luego de entender para que sirve CSS, buscar ampliar la maquetacion de HTML para darle mayor significado.
+
+	por ejemplo:
+		b -> strong
+
+Preparar el documento para poder utilizar varios CSS y verse de diferentes maneras.
+
+CSS:
+
+Empezar por lo basico: cambiar el texto de color, agregar tipos de letras, hacer cosas sencillas. Aca es donde adquieren sentido las 
+etiquetas STRONG, EM, SPAN, etc.
+
+Pasar luego a definir espacios del documento. Aprendiendo de Flex, Float, Grid, etc. Aca es donde adquieren sentido las etiquetas 
+ASIDE, HEADER, FOOTER, SECTION, ARTICLE, DIV, etc.
